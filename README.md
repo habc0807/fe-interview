@@ -1,8 +1,13 @@
 # fe-interview
-BAT、TMD等各大厂中高级、资深前端面试题整理
+BAT、TMD等各大厂中高级、资深前端面试题整理。
 
+## 联系我
 
-问题集合地址：https://github.com/habc0807/fe-interview/issues
+我是尤小小，跟着我每天攻克一道大厂前端面试题。让我带你走进高级前端的世界，在进阶的路上，共勉！
+添加微信 `uxiaoxiaoxx `，拉你进「前端进阶交流群」学习小组。
+
+## 问题集合
+地址：https://github.com/habc0807/fe-interview/issues
 
 ## Vue/Vue3.0
 
