@@ -22,3 +22,4 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 - [x] [vue中的diff算法是在哪些生命周期执行的？](https://github.com/habc0807/fe-interview/issues/9)
 - [x] [谈谈vue中eventBus的实现原理?](https://github.com/habc0807/fe-interview/issues/10)
 - [x] [vue-loader是什么？它的作用是什么？](https://github.com/habc0807/fe-interview/issues/11)
+- [ ] [vue双向绑定和vuex是否冲突?](https://github.com/habc0807/fe-interview/issues/12)
