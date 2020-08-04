@@ -9,6 +9,9 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 ## 问题集合
 地址：https://github.com/habc0807/fe-interview/issues
 
+## JavaScript 
+- [x] [箭头函数，为什么不能通过new生成实例？](https://github.com/habc0807/fe-interview/issues/16)
+
 ## Vue/Vue3.0
 
 - [x] [vue中 provide、 inject 的适用场景有哪些？](https://github.com/habc0807/fe-interview/issues/1)
