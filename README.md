@@ -12,6 +12,9 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 ## JavaScript 
 - [x] [箭头函数，为什么不能通过new生成实例？](https://github.com/habc0807/fe-interview/issues/16)
 
+## ES6/7/8/NEXT
+- [x] [Babel是如何将ES6及以上版本的代码转换为ES5的？](https://github.com/habc0807/fe-interview/issues/17)
+
 ## Vue/Vue3.0
 
 - [x] [vue中 provide、 inject 的适用场景有哪些？](https://github.com/habc0807/fe-interview/issues/1)
