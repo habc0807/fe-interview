@@ -12,7 +12,8 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 ## JavaScript基础、业务 
 - [x] [箭头函数，为什么不能通过new生成实例？](https://github.com/habc0807/fe-interview/issues/16)
 - [x] [从输入 URL 到页面展示，这中间发生了什么？](https://github.com/habc0807/fe-interview/issues/18)
-- [ ] [做过大文件上传吗？你是如何做上传优化的？](https://github.com/habc0807/fe-interview/issues/19)
+- [x] [做过大文件上传吗？你是如何做上传优化的？](https://github.com/habc0807/fe-interview/issues/19)
+- [ ] [手动实现 Array.prototype.reduce 函数？](https://github.com/habc0807/fe-interview/issues/20)
 
 ## ES6/7/8/NEXT
 - [x] [Babel是如何将ES6及以上版本的代码转换为ES5的？](https://github.com/habc0807/fe-interview/issues/17)
