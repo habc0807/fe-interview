@@ -19,6 +19,8 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 
 ## ES6/7/8/NEXT
 - [x] [Babel是如何将ES6及以上版本的代码转换为ES5的？](https://github.com/habc0807/fe-interview/issues/17)
+- [x] [promise相关问题？](https://github.com/habc0807/fe-interview/issues/22)
+
 
 ## Vue/Vue3.0
 
