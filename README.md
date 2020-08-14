@@ -16,6 +16,7 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 - [x] [手动实现 Array.prototype.reduce 函数？](https://github.com/habc0807/fe-interview/issues/20)
 - [x] [你解决过紧急的线上事故吗？](https://github.com/habc0807/fe-interview/issues/21)
 - [x] [你的项目中有哪些痛点、难点（吐槽一波~）](https://github.com/habc0807/fe-interview/issues/23)
+- [x] [来说说你对原型链的理解？](https://github.com/habc0807/fe-interview/issues/24)
 
 
 ## ES6/7/8/NEXT
