@@ -21,7 +21,7 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 - [x] [来说说你对原型链的理解？](https://github.com/habc0807/fe-interview/issues/24)
 - [x] [说说箭头函数？ ](https://github.com/habc0807/fe-interview/issues/28)
 - [x] [如何优化长列表？](https://github.com/habc0807/fe-interview/issues/25)
-- [x] [说说拖拽式动态表单的最佳实现方案？(https://github.com/habc0807/fe-interview/issues/26)
+- [x] [说说拖拽式动态表单的最佳实现方案？](https://github.com/habc0807/fe-interview/issues/26)
 
 
 ## ES6/7/8/NEXT
