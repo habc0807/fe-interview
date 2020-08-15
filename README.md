@@ -9,14 +9,19 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 ## 问题集合
 地址：https://github.com/habc0807/fe-interview/issues
 
-## JavaScript基础、业务 
+## JavaScript基础
 - [x] [箭头函数，为什么不能通过new生成实例？](https://github.com/habc0807/fe-interview/issues/16)
 - [x] [从输入 URL 到页面展示，这中间发生了什么？](https://github.com/habc0807/fe-interview/issues/18)
-- [x] [做过大文件上传吗？你是如何做上传优化的？](https://github.com/habc0807/fe-interview/issues/19)
 - [x] [手动实现 Array.prototype.reduce 函数？](https://github.com/habc0807/fe-interview/issues/20)
+
+## 业务相关
+- [x] [做过大文件上传吗？你是如何做上传优化的？](https://github.com/habc0807/fe-interview/issues/19)
 - [x] [你解决过紧急的线上事故吗？](https://github.com/habc0807/fe-interview/issues/21)
 - [x] [你的项目中有哪些痛点、难点（吐槽一波~）](https://github.com/habc0807/fe-interview/issues/23)
 - [x] [来说说你对原型链的理解？](https://github.com/habc0807/fe-interview/issues/24)
+- [x] [说说箭头函数？ ](https://github.com/habc0807/fe-interview/issues/28)
+- [x] [如何优化长列表？](https://github.com/habc0807/fe-interview/issues/25)
+- [x] [说说拖拽式动态表单的最佳实现方案？(https://github.com/habc0807/fe-interview/issues/26)
 
 
 ## ES6/7/8/NEXT
