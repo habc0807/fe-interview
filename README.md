@@ -31,6 +31,9 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 - [x] [聊聊浏览器的垃圾回收机制？](https://github.com/habc0807/fe-interview/issues/34)
 - [x] [你知道哪些本地存储？](https://github.com/habc0807/fe-interview/issues/39)
 
+## 网络
+- [x] [说说TCP连接的三次握手和四次挥手？](https://github.com/habc0807/fe-interview/issues/41)
+
 ## webpack
 - [x] [webpack 5 增加了哪些新特性？](https://github.com/habc0807/fe-interview/issues/38)
 
