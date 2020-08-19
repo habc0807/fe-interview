@@ -33,7 +33,7 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 
 ## 网络
 - [x] [说说TCP连接的三次握手和四次挥手？](https://github.com/habc0807/fe-interview/issues/41)
-- [x] [HTTPS是如何实现的？])(https://github.com/habc0807/fe-interview/issues/42)
+- [x] [HTTPS是如何实现的？](https://github.com/habc0807/fe-interview/issues/42)
 
 ## webpack
 - [x] [webpack 5 增加了哪些新特性？](https://github.com/habc0807/fe-interview/issues/38)
