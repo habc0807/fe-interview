@@ -25,6 +25,9 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 - [x] [说说拖拽式动态表单的最佳实现方案？](https://github.com/habc0807/fe-interview/issues/26)
 - [x] [你是如何做SEO优化的？](https://github.com/habc0807/fe-interview/issues/35)
 
+## 性能优化
+- [x] [谈谈你们对图片的优化方法？](https://github.com/habc0807/fe-interview/issues/53)
+
 ## 浏览器
 - [x] [你对浏览器缓存了解吗？](https://github.com/habc0807/fe-interview/issues/32)
 - [x] [聊聊事件循环机制 - eventloop](https://github.com/habc0807/fe-interview/issues/33)
