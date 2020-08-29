@@ -42,6 +42,7 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 
 ## webpack
 - [x] [webpack 5 增加了哪些新特性？](https://github.com/habc0807/fe-interview/issues/38)
+- [x] [你知道webpack的异步加载是怎么实现的吗？](https://github.com/habc0807/fe-interview/issues/54)
 
 ## ES6/7/8/NEXT
 - [x] [箭头函数，为什么不能通过new生成实例？](https://github.com/habc0807/fe-interview/issues/16)
