@@ -6,7 +6,7 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 我是**尤小小**，跟着我每天攻克一道大厂前端面试题。让我带你走进高级前端的世界，在进阶的道路上，共勉！
 添加微信 `uxiaoxiaoxx`，拉你进「**前端进阶交流群**」。
 
-## 问题集合
+## 问题集合讨论区
 地址：https://github.com/habc0807/fe-interview/issues
 
 ## JavaScript基础
@@ -23,6 +23,7 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 - [x] [谈谈你们对图片的优化方法？](https://github.com/habc0807/fe-interview/issues/53)
 - [x] [script阻塞DOM的渲染怎么办？](https://github.com/habc0807/fe-interview/issues/60)
 - [x] [你知道defer 和 async的区别吗](https://github.com/habc0807/fe-interview/issues/64)
+- [x] [首屏加载，你都做了哪些优化？](https://github.com/habc0807/fe-interview/issues/79)
 
 ## 浏览器
 - [x] [你对浏览器缓存了解吗？](https://github.com/habc0807/fe-interview/issues/32)
@@ -56,6 +57,8 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 - [x] [var与let、const的区别？](https://github.com/habc0807/fe-interview/issues/36)
 - [x] [const为什么可以定义常量，但是用const定义的对象、数组却可以改变？](https://github.com/habc0807/fe-interview/issues/37)
 - [x] [手动实现一个promise.all](https://github.com/habc0807/fe-interview/issues/70)
+- [x] [export 与 export default 的区别？](https://github.com/habc0807/fe-interview/issues/77)
+- [x] [手动实现一个promise.race() ](https://github.com/habc0807/fe-interview/issues/81)
 
 
 ## Vue/Vue3.0
@@ -64,7 +67,7 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 - [x] [vue中 functional无data无this的场景多吗？](https://github.com/habc0807/fe-interview/issues/2)
 - [x] [你使用过vue的mixins吗？它有哪些适用场景？](https://github.com/habc0807/fe-interview/issues/3)
 - [x] [你写过vue的自定义指令吗？都写过哪些？](https://github.com/habc0807/fe-interview/issues/4)
-- [ ] [说说vue中的 watch 深度监听和立即触发的使用场景，以及实现原理？](https://github.com/habc0807/fe-interview/issues/5)
+- [x] [说说vue中的 watch 深度监听和立即触发的使用场景，以及实现原理？](https://github.com/habc0807/fe-interview/issues/5)
 - [x] [Vue3.0 增添了哪些新特性?](https://github.com/habc0807/fe-interview/issues/6)
 - [x] [vue更新数组时触发视图的方法有哪些？](https://github.com/habc0807/fe-interview/issues/7)
 - [x] [说说vue中computed的实现原理？](https://github.com/habc0807/fe-interview/issues/8)
@@ -76,6 +79,8 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 - [x] [vue中使用插值表达式，页面闪烁问题你是怎么解决的？](https://github.com/habc0807/fe-interview/issues/14)
 - [x] [你能对比说说Vue与React、Angular框架吗?](https://github.com/habc0807/fe-interview/issues/44)
 - [x] [你知道<keep-alive>是如何实现组件缓存的吗？](https://github.com/habc0807/fe-interview/issues/66)
+- [x] [为什么 vuex 的 mutation 里不能做异步操作？](https://github.com/habc0807/fe-interview/issues/80)
+- [x] [vue-router源码的 install方法， 为什么加 static？](https://github.com/habc0807/fe-interview/issues/78)
 
 ## 微信小程序
 
