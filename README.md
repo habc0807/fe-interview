@@ -6,8 +6,6 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 我是**尤小小**，跟着我每天攻克一道大厂前端面试题。让我带你走进高级前端的世界，在进阶的道路上，共勉！
 添加微信 `uxiaoxiaoxx`，拉你进「**前端进阶交流群**」。
 
-> 截止更新于 2020年9月12日。
-
 
 ## 问题集合讨论区
 地址：https://github.com/habc0807/fe-interview/issues
@@ -115,3 +113,6 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 - [你对微前端了解吗](https://github.com/habc0807/fe-interview/issues/71)
 - [h5与原生交互是如何通信的？](https://github.com/habc0807/fe-interview/issues/74)
 - [如何让你开发一个离线应用，你都要做什么，可以随便聊聊？](https://github.com/habc0807/fe-interview/issues/75)
+
+
+> 该面试题仓库于2020年9月12日停更。
