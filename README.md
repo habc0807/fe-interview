@@ -6,8 +6,6 @@ BAT、TMD等各大厂中高级、资深前端面试题整理。
 我是**尤小小**，跟着我每天攻克一道大厂前端面试题。让我带你走进高级前端的世界，在进阶的道路上，共勉！
 添加微信 `uxiaoxiaoxx`，拉你进「**前端进阶交流群**」。
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8a6cf3051a9d4d38aabd03390618e5cb~tplv-k3u1fbpfcp-zoom-1.image)
-
 ## 问题集合
 地址：https://github.com/habc0807/fe-interview/issues
 
